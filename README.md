@@ -48,3 +48,17 @@ Building software, studying medicine, and exploring the intersection between sci
 ## Contribution Graph
 
 ![snake](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake-dark.svg)
+
+## Currently Listening
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view)
+
+---
+
+<div align="center">
+
+*"Omnia instaurare in Christo."*
+
+— Saint Pius X
+
+</div>
