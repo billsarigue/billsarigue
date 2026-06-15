@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=900&color=D3AF37&center=true&vCenter=true&width=1000&lines=Andr%C3%A9+Fernandes;Medical+Doctor;Linux+Enthusiast;%E2%9C%9D+Ad+Maiorem+Dei+Gloriam+%E2%9C%9D" />
-</p>
+<img src="assets/banner.svg" width="100%">
 
 <div align="center">
 
@@ -34,12 +32,15 @@ Building software, studying medicine, and exploring the intersection between sci
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
 ## GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=billsarigue&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billsarigue&layout=compact&theme=github_dark"/>
 </p>
+
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=billsarigue&theme=github-dark-blue" />
@@ -48,12 +49,15 @@ Building software, studying medicine, and exploring the intersection between sci
 ## Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/billsarigue/billsarigue/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/billsarigue/billsarigue/output/github-contribution-grid-snake-dark.svg" /> 
 </p>
 
-## Currently Listening
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=900&color=D3AF37&center=true&vCenter=true&width=1000&lines=Andr%C3%A9+Fernandes;Medical+Doctor;Linux+Enthusiast;%E2%9C%9D+Ad+Maiorem+Dei+Gloriam+%E2%9C%9D" />
+</p>
+
 
 ---
 
