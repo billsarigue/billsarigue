@@ -45,9 +45,11 @@ Building software, studying medicine, and exploring the intersection between sci
   <img src="https://streak-stats.demolab.com?user=billsarigue&theme=github-dark-blue" />
 </p>
 
-## Contribution Graph
+## Contributions
 
-![snake](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/billsarigue/billsarigue/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## Currently Listening
 
