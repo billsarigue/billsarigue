@@ -17,7 +17,6 @@ Building software, studying medicine, and exploring the intersection between sci
 - 🩺 Medical Doctor
 - 🐧 Fedora Linux User
 - 📚 Lifelong Student
-- ✝ Catholic
 
 ### Interests
 
