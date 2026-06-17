@@ -14,7 +14,7 @@ Building software, studying medicine, and exploring the intersection between sci
 
 ## About Me
 
-- 🩺 Medical Doctor
+- 🩺 Medical Doctor (50%)
 - 🐧 Fedora Linux User
 - 📚 Lifelong Student
 
